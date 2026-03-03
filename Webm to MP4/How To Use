@@ -1,0 +1,23 @@
+🎬 WebM to MP4 Converter (Windows Batch Script)
+
+A simple drag-and-drop batch script that converts `.webm` files to `.mp4` using FFmpeg.
+
+🚀 Features
+- Drag and drop conversion
+- Supports multiple files
+- Uses H.264 + AAC for compatibility
+- No GUI required
+
+🛠 Requirements
+- Windows OS
+- FFmpeg installed
+- Update the FFmpeg path inside the script if necessary
+
+📦 How to Use
+1. Download the script.
+2. Install FFmpeg.
+3. Drag one or more `.webm` files onto `ConvertToMP4.bat`.
+4. Your `.mp4` files will be created in the same folder.
+
+👩‍💻 Author
+Khushnor Rahman Meem
